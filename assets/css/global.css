@@ -31,7 +31,7 @@ a:hover {
 
 body::before{
     content: '';
-    background-image: url('../img/foto.jpg');
+    background-image: url('../img/background.svg');
     background-repeat: no-repeat;
     background-size: contain;
     display: inline-block;
