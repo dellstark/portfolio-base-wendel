@@ -29,18 +29,17 @@ a:hover {
     border-radius: 1rem;
 }
 
-.main::before,
-.main::after {
+body::before{
     content: '';
-    background-image: url('../img/background.svg');
+    background-image: url('../img/foto.jpg');
     background-repeat: no-repeat;
     background-size: contain;
     display: inline-block;
     position: fixed;
     top: 0;
     left: 0;
-    width: 140vw;
-    height: 100vh;
+    width: 1920px;
+    height: 1080px;
     z-index: -1;
 }
 
