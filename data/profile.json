@@ -24,6 +24,10 @@
         "logo": "https://skillicons.dev/icons?i=angular"
       },
       {
+        "name": "React",
+        "logo": "https://skillicons.dev/icons?i=react"
+      },
+      {
         "name": "Java",
         "logo": "https://skillicons.dev/icons?i=java"
       }
