@@ -30,6 +30,10 @@
       {
         "name": "Java",
         "logo": "https://skillicons.dev/icons?i=java"
+      },
+      {
+        "name": "NodeJs",
+        "logo": "https://skillicons.dev/icons?i=nodejs"
       }
     ],
     "softSkills": [
