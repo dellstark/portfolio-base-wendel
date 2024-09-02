@@ -72,10 +72,12 @@ body::before{
     .main {
         max-width: 1024px;
         margin: 1rem auto;
+        transition: 2000ms ease-in-out;
     }
 
     .main::before,
     .main::after {
         width: 70vw;
+        transition: 2000ms ease-in-out;
     }
 }

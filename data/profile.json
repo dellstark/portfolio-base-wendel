@@ -59,6 +59,21 @@
       "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
       "url": "https://github.com/dellstark/portfolio-base-wendel",
       "github": true
+    },
+    {
+      "name": "Portifólio Drª Larisse Advocacia",
+      "url": "https://portifolio-larisse.vercel.app",
+      "github": true
+    },
+    {
+      "name": "Portifólio Geovane Santos Designer",
+      "url": "https://geovane-designer.vercel.app/",
+      "github": true
+    },
+    {
+      "name": "Landing Page Wendel Santos",
+      "url": "https://landpage-dell.vercel.app/",
+      "github": true
     }
   ],
   "professionalExperience": [
