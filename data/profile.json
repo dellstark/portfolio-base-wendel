@@ -78,14 +78,19 @@
   ],
   "professionalExperience": [
     {
-      "name": "Operador de Maquinas - Mercado Livre",
-      "period": "2021 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais no mercado."
-    },
-    {
       "name": "Instrutor de Informática - Mega Curso",
       "period": "2015 - 2018",
       "description": "Foi um prazer fazer parte deste time e poder contribuir com a transformação de tantas vidas."
+    },
+    {
+      "name": "Operador de Maquinas - Mercado Livre",
+      "period": "2021 - 2023",
+      "description": "Operador de empilhadeira, onde usava o máquina para armazenar paletes de produtos no estoque chamado RK, que são prateleiras para armazenamento de paletes fechados."
+    },
+    {
+      "name": "Auxiliar de Planejamento - Mercado Livre",
+      "period": "2024 - Até o momento",
+      "description": "Analisar dados operacionais para identificar oportunidades de melhoria na cadeia logística, Apoiar na definição e monitoramento de KPIs logísticos, Garantir o cumprimento de prazos e qualidade nas entregas, Auxiliar na elaboração de relatórios e apresentações gerenciais, Estabelecer comunicação eficiente com equipes internas e parceiros externos e Planejamento e controle operacional."
     }
   ]
 }
